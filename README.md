@@ -62,9 +62,11 @@ class="gallery">
 <h1>Large Cats Gallery</h1>
 
 <div
-https://assets-natgeotv.fnghub.com/Photos/72/181333.jpg
-https://s.hdnux.com/photos/01/15/15/35/20240195/3/rawImage.jpg
-https://st2.depositphotos.com/1008660/9611/i/950/depositphotos_96115198-stock-photo-four-big-wild-cats.jpg
+![image alt](https://assets-natgeotv.fnghub.com/Photos/72/181333.jpg)
+
+![image alt](https://s.hdnux.com/photos/01/15/15/35/20240195/3/rawImage.jpg)
+![image alt](https://st2.depositphotos.com/1008660/9611/i/950/depositphotos_96115198-stock-photo-four-big-wild-cats.jpg)
+
 
 <img
 
