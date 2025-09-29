@@ -1,0 +1,52 @@
+<
+
+name="Largecats"
+
+content="width=device-width,
+
+initial-scale=1.0">
+
+<title>Large Cats Gallery</title>
+I made a large cat gallery check it out! font-family: Arial, sans-serif; text-align: center;
+
+background-color: #f8f8f8;
+
+h1 {
+
+margin: 20px
+
+color: #333;
+
+}
+
+.gallery {
+
+flex;
+
+display:
+
+justify-content: center;
+
+gap: 20px;
+
+flex-wrap: wrap;
+
+.gallery img {
+
+same height
+
+height: 220px; /* makes all images the
+
+border-radius: 12px;
+
+box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+
+</Here are some of my favorite large cats>
+
+</Large cat pictures>
+
+<I found 3 large cat photos>
+https://www.publicdomainpictures.net/pictures/270000/velka/big-cats-1531670524qH3.jpg
+https://th.bing.com/th/id/R.97f82053327fe84e11bc176879483d90?rik=fFeCIQpcxeM%2fAg&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f34300000%2fBig-Cats-wild-animals-34365410-1920-1200.jpg&ehk=EH7dGeQE6nD9hY4YYs7oOvHGJceMrouD2WA5v9TOm8c%3d&risl=&pid=ImgRaw&r=0
+
+/5/56/Tiger.50.jpg" alt="Tiger">
