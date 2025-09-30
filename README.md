@@ -3,10 +3,10 @@
 
 <large cats>
 
-<body>I made a large cat gallery check it out!<body>
+<body>I made a large cat gallery, check it out!<body>
 
 <body>I found 3 large cat photos<body>
-<body>I found some pictures on thw web of large breeds of cats that i would love to share!</body>
+<body>I found some pictures on the web of large breeds of cats that I would love to share!</body>
 <h1>Large Cats Gallery</h1>
 ![image alt](https://assets-natgeotv.fnghub.com/Photos/72/181333.jpg)
 
