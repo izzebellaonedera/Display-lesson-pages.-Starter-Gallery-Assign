@@ -2,8 +2,6 @@
 
 <html1>Largecats gallery!<html1>
 
-<title>Large Cats Gallery</title>
-
 <large cats>
 
 <body>I made a large cat gallery check it out!<body>
