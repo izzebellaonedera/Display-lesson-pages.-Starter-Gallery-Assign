@@ -1,4 +1,3 @@
-<body>Large cats gallery<body>
 
 <html1>Largecats gallery!<html1>
 
