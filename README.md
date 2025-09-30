@@ -18,41 +18,7 @@ initial-scale=1.0">
 
 I made a large cat gallery check it out!
 font-family: Arial, sans-serif; text-align: center;
-
-background-color: #f8f8f8;
-
-h1 {
-
-margin: 20px
-
-color: #333;
-
-}
-
-.gallery {
-
-flex;
-
-display:
-
-justify-content: center;
-
-gap: 20px;
-
-flex-wrap: wrap;
-
-.gallery img {
-
-same height
-
-height: 220px; /* makes all images the
-
-border-radius: 12px;
-
-box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-
 </Here are some of my favorite large cats>
-
 </Large cat pictures>
 
 <I found 3 large cat photos>
